@@ -1,6 +1,6 @@
 # Databases
 
-1. user.js - vercore.xyz check
+1. user.json - vercore.xyz check
 
 2.
 
